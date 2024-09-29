@@ -1,33 +1,3 @@
-# import os
-# import ffmpeg
-
-# def create_shorts(frames_dir, output_video_path, fps=30):
-#     frame_pattern = os.path.join(frames_dir, 'frame_%06d.jpg')
-
-#     try:
-#         # Собираем кадры в видео-шортс
-#         print(f"Creating video from frames in {frames_dir}...")
-#         ffmpeg.input(frame_pattern, framerate=fps).output(output_video_path, vcodec='libx264').run()
-#         print(f"Shorts video created: {output_video_path}")
-    
-#     except ffmpeg.Error as e:
-#         print("ffmpeg error occurred while creating shorts:")
-#         if e.stdout:
-#             print("Standard Output:")
-#             print(e.stdout.decode('utf-8'))
-#         if e.stderr:
-#             print("Standard Error:")
-#             print(e.stderr.decode('utf-8'))
-#         raise e
-
-# # Пример использования
-# if __name__ == "__main__":
-#     frames_dir = 'frames/example_video'
-#     output_video_path = 'output/example_shorts.mp4'
-#     create_shorts(frames_dir, output_video_path)
-
-
-
 
 
 

@@ -1,0 +1,19 @@
+2024-09-29 08:36:23,382 - INFO - Директория видеофайлов: Путь существует: E:\Python\Puthon\Hakaton\project\videos
+2024-09-29 08:36:23,382 - INFO - Директория аудиофайлов: Путь существует: E:\Python\Puthon\Hakaton\project\audio
+2024-09-29 08:36:23,383 - INFO - Директория выходных файлов: Путь существует: E:\Python\Puthon\Hakaton\project\output
+2024-09-29 08:36:23,383 - INFO - Директория кадров: Путь существует: E:\Python\Puthon\Hakaton\project\frames
+2024-09-29 08:36:23,383 - INFO - Файл видео 2e57018a4e5282ee4378f4ae7d412682.mp4: Путь существует: E:\Python\Puthon\Hakaton\project\videos\2e57018a4e5282ee4378f4ae7d412682.mp4
+2024-09-29 08:36:23,383 - INFO - Файл видео 3c870fcc822206e9f0882fb70744ed14.mp4: Путь существует: E:\Python\Puthon\Hakaton\project\videos\3c870fcc822206e9f0882fb70744ed14.mp4
+2024-09-29 08:36:23,383 - INFO - Файл видео 3ebd6174dfbe38b4ad6b20722b8361fe.mp4: Путь существует: E:\Python\Puthon\Hakaton\project\videos\3ebd6174dfbe38b4ad6b20722b8361fe.mp4
+2024-09-29 08:36:23,383 - INFO - Обработка видеофайла: E:\Python\Puthon\Hakaton\project\videos\2e57018a4e5282ee4378f4ae7d412682.mp4
+2024-09-29 08:36:25,967 - INFO - Аудио извлечено: E:\Python\Puthon\Hakaton\project\audio\2e57018a4e5282ee4378f4ae7d412682.wav
+2024-09-29 08:36:54,384 - INFO - Кадры извлечены в директорию: E:\Python\Puthon\Hakaton\project\frames\2e57018a4e5282ee4378f4ae7d412682
+2024-09-29 08:37:14,066 - ERROR - Ошибка при распознавании аудио для 2e57018a4e5282ee4378f4ae7d412682.mp4: recognition request failed: Bad Request
+2024-09-29 08:37:14,098 - INFO - Обработка видеофайла: E:\Python\Puthon\Hakaton\project\videos\3c870fcc822206e9f0882fb70744ed14.mp4
+2024-09-29 08:37:14,529 - INFO - Аудио извлечено: E:\Python\Puthon\Hakaton\project\audio\3c870fcc822206e9f0882fb70744ed14.wav
+2024-09-29 08:37:18,089 - INFO - Кадры извлечены в директорию: E:\Python\Puthon\Hakaton\project\frames\3c870fcc822206e9f0882fb70744ed14
+2024-09-29 08:37:23,516 - ERROR - Ошибка при распознавании аудио для 3c870fcc822206e9f0882fb70744ed14.mp4: recognition request failed: Bad Request
+2024-09-29 08:37:23,521 - INFO - Обработка видеофайла: E:\Python\Puthon\Hakaton\project\videos\3ebd6174dfbe38b4ad6b20722b8361fe.mp4
+2024-09-29 08:37:24,703 - INFO - Аудио извлечено: E:\Python\Puthon\Hakaton\project\audio\3ebd6174dfbe38b4ad6b20722b8361fe.wav
+2024-09-29 08:37:38,801 - INFO - Кадры извлечены в директорию: E:\Python\Puthon\Hakaton\project\frames\3ebd6174dfbe38b4ad6b20722b8361fe
+2024-09-29 08:37:53,977 - ERROR - Ошибка при распознавании аудио для 3ebd6174dfbe38b4ad6b20722b8361fe.mp4: recognition request failed: Bad Request

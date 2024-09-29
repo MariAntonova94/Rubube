@@ -1,0 +1,12 @@
+torch
+transformers
+deepface
+vosk
+librosa
+nltk
+SpeechRecognition
+soundfile
+opencv-python
+tqdm
+dostoevsky
+ffmpeg-python
